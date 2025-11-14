@@ -129,15 +129,36 @@
             }
           },
           {
-            "id": "cb50884e261158b1",
+            "id": "9234a508eb6a6e5b",
             "type": "leaf",
             "state": {
-              "type": "footnotes",
+              "type": "backlink",
               "state": {
-                "file": "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 02.md"
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "a504a24b8988f777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           }
         ]
@@ -167,20 +188,6 @@
                   "collapse-color-groups": true,
                   "colorGroups": [
                     {
-                      "query": "path:\"Daily Notes\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2540535
-                      }
-                    },
-                    {
-                      "query": "path:People -file:People",
-                      "color": {
-                        "a": 1,
-                        "rgb": 15955730
-                      }
-                    },
-                    {
                       "query": "path:\"0 - Incoming\"",
                       "color": {
                         "a": 1,
@@ -204,39 +211,6 @@
               },
               "icon": "lucide-git-fork",
               "title": "Graph of README"
-            }
-          },
-          {
-            "id": "eb00dbfaa918e498",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2 - Calendar/Daily Notes/2025/300 - Monday, October 27, 2025.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 300 - Monday, October 27, 2025"
-            }
-          },
-          {
-            "id": "604c1b787898f3f0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2 - Calendar/Daily Notes/2025/300 - Monday, October 27, 2025.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 300 - Monday, October 27, 2025"
             }
           },
           {
@@ -284,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -312,49 +286,6 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md",
-    "License.md",
-    "3 -",
-    "2 - Calendar",
-    "1 - Atlas",
-    "0 - Incoming",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/MADS 3501 - Ascending the Lords Mountain.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 03.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Wenham - Cult and Cosmos - Chapter 10 - Eden.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Kearney - Cult and Cosmos - Chapter 07 - Creation and Liturgy.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Weinfeld - Cult and Cosmos - Chapter 09 - Enthronement of the Lord.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/Dictionary of Biblical Imagery - Mountains.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/Dictionary of Biblical Imagery - Mountains - Scripture References.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/The Bible and Literary Conventions.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 02.md",
-    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology/Back Porch Theology - Mountains and Valleys.md",
-    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology",
-    "1 - Atlas/Bible Study/Podcasts",
-    "1 - Atlas/Whole Person/A Gentler, Better Way to Change Minds - The Atlantic.md",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters",
-    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology/Episodes/Back Porch Theology - Mountains and Valleys - Podcast Episode 01.md",
-    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology/Episodes",
-    "5 - Templates/Song Lyrics Note.md",
-    "5 - Templates/Sermon Template.md",
-    "5 - Templates/runImport.md",
-    "5 - Templates/Prayer Template.md",
-    "5 - Templates/Podcast Series Template.md",
-    "5 - Templates/Podcast Episode Note Template.md",
-    "5 - Templates/Podcast Episode Note Trigger.md",
-    "5 - Templates/Person Template.md",
-    "5 - Templates/New Book Template.md",
-    "5 - Templates/Meeting Note Trigger.md",
-    "0 - Incoming/Untitled.base",
-    "bibleproject.com/podcasts",
-    "4 - Archive/Junior-Senior Class - You and the Church/Attachments/College Readiness Plan Guide - QR Code.png",
-    "1 - Atlas/Education/UAH/PhysicsProgramAssessmentAttempt_1.jpg",
-    "1 - Atlas/Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
-    "1 - Atlas/Bible Study/Trinity in Rom 8_1.jpg",
-    "1 - Atlas/Education/HST/BDOC 5400 - Systematic Theology/Books/Mark E Powell John Mark Hicks Greg McKinzie - Discipleship in Community - Chapters/Attachments/Discipleship in Community - Table of Salvation.png",
-    "0 - Incoming/Attachments/Trinity in Rom 8_1.jpg",
-    "3 - Efforts/Projects/Bible Classes/Junior-Senior Class - You and the Church/Attachments/College Readiness Plan Guide - QR Code.png",
-    "1 - Atlas/Reading/Literature Notes/Attachments/HausenRobertson-MorpheusDeepLearning-2020/image-11-x416-y582.png",
-    "1 - Atlas/Reading/Literature Notes/Attachments/BarchiEtAl-MachineDeepLearning-2020/image-8-x37-y586.png",
-    "1 - Atlas/Reading/Literature Notes/Attachments/BarchiEtAl-MachineDeepLearning-2020/image-3-x34-y164.png"
+    "License.md"
   ]
 }
