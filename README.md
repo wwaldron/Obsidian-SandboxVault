@@ -8,6 +8,21 @@ authors:
 Welcome to my [Obsidian](https://obsidian.md/) Template/Sandbox vault. If you are unfamiliar with Obsidian then it would be worthwhile to familiarize yourself with their [help documents / documentation](https://help.obsidian.md/). Obsidian is based off of plain text Markdown files (extension `.md`). If you are unfamiliar with Markdown then you should know that Markdown files can be read/opened by any app/software on your device that can read text files.[^1] If you find the idea of learning a formatted text schema then there are a number of resources that can help you.
 
 1. Obsidian has a command palette (opened in the left-hand button menu or by pressing `Ctrl/Cmd + p`) that has ways to insert any Markdown feature (*e.g,*, lists or tables).
-2. There are Markdown guides all over the internet that can help you learn the syntax (my go-to guide is conveniently called [The Markdown Guide](https://www.markdownguide.org/)).
+1. There are Markdown guides all over the internet that can help you learn the syntax (my go-to guide is conveniently called [The Markdown Guide](https://www.markdownguide.org/)).
+1. There are many people on YouTube that can help you get started with Markdown/Obsidian (I learned from [Nick Milo - Linking Your Thinking](https://youtu.be/z4AbijUCoKU?si=ouopvg-cWIZcZyNx))
+
+## Quick Introduction to Obsidian
+
+Obsidian is built around "wikilinks" that are essentially quick links to other files in your Vault. To link to another file, simply open a set of double square brackets `[[]]`. This will open up a dropdown menu where you can link to existing files or drop in new text that will link to a file that has not yet been created. For example, I can link to the [[Physics]] file (`[[Physics]]` under the hood) with square brackets for quick linking between notes/ideas.
+
+### Folders and Tags
+
+Many people who take notes throughout life discuss how difficult it is to categorize notes into folder. However, you will see in the file tree of this Vault that I have a loose set of folders setup that follows [Nick Milo's ACE Folder Framework](https://www.linkingyourthinking.com/lytcon-2023/nick-milo) detailed below.
+
+| Folder   | Files in Folder                                                 |
+| -------- | --------------------------------------------------------------- |
+| Incoming | Files yet to be sorted (where new files are created by default) |
+|          |                                                                 |
+
 
 [^1]: Many people who choose Obsidian do so because they want to always be able to read their files. That is to say, if Obsidian ceases to exist, you will still be able to read the files made in Obsidian using any other text program.

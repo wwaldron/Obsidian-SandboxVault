@@ -120,9 +120,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for README"
             }
           },
           {
@@ -280,8 +282,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3bbf7b48caa641ce",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1 - Atlas/Physics.md",
+    "1 - Atlas/Definitions",
     "README.md",
     "5 - Templates/Lecture Note Trigger.md",
     "5 - Templates/Lecture Note Template.md",
