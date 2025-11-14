@@ -1,0 +1,33 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "1 - Atlas/Reading/Literature Notes",
+  "pdfExportImageDPI": 72,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
+    },
+    {
+      "name": "BibLaTeX",
+      "format": "biblatex",
+      "command": "autocite"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create Literature Note",
+      "outputPathTemplate": "1 - Atlas/Reading/Literature Notes/{{citekey}}.md",
+      "imageOutputPathTemplate": "1 - Atlas/Reading/Literature Notes/Attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "5 - Templates/Zotero/nocona17-literature-note.md",
+      "cslStyle": "chicago-author-date"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "exeOverridePath": ""
+}

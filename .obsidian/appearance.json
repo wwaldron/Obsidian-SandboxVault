@@ -1,0 +1,12 @@
+{
+  "accentColor": "#9a3c09",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "table-modifications",
+    "callout-styling",
+    "img-grids-floats",
+    "music-lyrics",
+    "small-caps"
+  ]
+}

@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.QuotesList table {
+    min-width: 800px;
+}
+
+/* Sets the width for the quote column */
+.QuotesList table th:nth-child(1),
+.QuotesList table td:nth-child(1) {
+    min-width: 395px;
+}
+
+/* Sets the width for the remaining three columns */
+.QuotesList table th:nth-child(2),
+.QuotesList table td:nth-child(2),
+.QuotesList table th:nth-child(3),
+.QuotesList table td:nth-child(3),
+.QuotesList table th:nth-child(4),
+.QuotesList table td:nth-child(4) {
+    min-width: 135px;
+}
+
+/* Alternates row background colors */
+.QuotesList table tr:nth-child(even) {
+    background-color: #28282E; /* Dark to midtone gray */
+}
+
+.QuotesList table tr:nth-child(odd) {
+    background-color: transparent; /* No background */
+}

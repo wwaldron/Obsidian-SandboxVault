@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "871f85fce921ae84",
+    "type": "split",
+    "children": [
+      {
+        "id": "a61bbf59d2b9b650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92cc3cfc09173d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "eb18a020bffba031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "License.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "License"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee0b07c100793d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "633b3f374a12b5d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8811bb3b6e4c50ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fcc6923a5b846636",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54640f1c13cc155c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "186566c36331c546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbf7b48caa641ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "30e48cddda82ba9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d620ef8964fadca",
+        "type": "tabs",
+        "dimension": 59.201388888888886,
+        "children": [
+          {
+            "id": "4779a85c1c634bfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
+          },
+          {
+            "id": "cb50884e261158b1",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 02.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e0cc9cc57bcdff0",
+        "type": "tabs",
+        "dimension": 40.79861111111111,
+        "children": [
+          {
+            "id": "ee46da741f3effc0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Daily Notes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2540535
+                      }
+                    },
+                    {
+                      "query": "path:People -file:People",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15955730
+                      }
+                    },
+                    {
+                      "query": "path:\"0 - Incoming\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16656938
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.1,
+                  "nodeSizeMultiplier": 0.508333333333333,
+                  "lineSizeMultiplier": 0.763541666666667,
+                  "collapse-forces": true,
+                  "centerStrength": 0.604166666666667,
+                  "repelStrength": 12.6041666666667,
+                  "linkStrength": 0.895833333333333,
+                  "linkDistance": 155,
+                  "scale": 0.45050811767578364,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of README"
+            }
+          },
+          {
+            "id": "eb00dbfaa918e498",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Calendar/Daily Notes/2025/300 - Monday, October 27, 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 300 - Monday, October 27, 2025"
+            }
+          },
+          {
+            "id": "604c1b787898f3f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Calendar/Daily Notes/2025/300 - Monday, October 27, 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 300 - Monday, October 27, 2025"
+            }
+          },
+          {
+            "id": "213e99d5e243a528",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MADS 3501 - Ascending the Lords Mountain - Lecture 02"
+            }
+          },
+          {
+            "id": "49fd61b37448cf8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "podcas"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df8c9be2e2495cf6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "92cc3cfc09173d1b",
+  "lastOpenFiles": [
+    "License.md",
+    "README.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/MADS 3501 - Ascending the Lords Mountain.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 03.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Wenham - Cult and Cosmos - Chapter 10 - Eden.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Kearney - Cult and Cosmos - Chapter 07 - Creation and Liturgy.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Weinfeld - Cult and Cosmos - Chapter 09 - Enthronement of the Lord.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/Dictionary of Biblical Imagery - Mountains.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/Dictionary of Biblical Imagery - Mountains - Scripture References.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/The Bible and Literary Conventions.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 02.md",
+    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology/Back Porch Theology - Mountains and Valleys.md",
+    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology",
+    "1 - Atlas/Bible Study/Podcasts",
+    "1 - Atlas/Whole Person/A Gentler, Better Way to Change Minds - The Atlantic.md",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters",
+    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology/Episodes/Back Porch Theology - Mountains and Valleys - Podcast Episode 01.md",
+    "1 - Atlas/Bible Study/Podcasts/Back Porch Theology/Episodes",
+    "5 - Templates/Song Lyrics Note.md",
+    "5 - Templates/Sermon Template.md",
+    "5 - Templates/runImport.md",
+    "5 - Templates/Prayer Template.md",
+    "5 - Templates/Podcast Series Template.md",
+    "5 - Templates/Podcast Episode Note Template.md",
+    "5 - Templates/Podcast Episode Note Trigger.md",
+    "5 - Templates/Person Template.md",
+    "5 - Templates/New Book Template.md",
+    "5 - Templates/Meeting Note Trigger.md",
+    "5 - Templates/Meeting Note Template.md",
+    "0 - Incoming/Untitled.base",
+    "bibleproject.com/podcasts",
+    "bibleproject.com",
+    "1 - Atlas/Podcasts",
+    "1 - Atlas/Bible Study/Bible Classes and Sermons/Classes/Lectures",
+    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Attachments",
+    "4 - Archive/Junior-Senior Class - You and the Church/Attachments/College Readiness Plan Guide - QR Code.png",
+    "1 - Atlas/Education/UAH/PhysicsProgramAssessmentAttempt_1.jpg",
+    "1 - Atlas/Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
+    "1 - Atlas/Bible Study/Trinity in Rom 8_1.jpg",
+    "1 - Atlas/Education/HST/BDOC 5400 - Systematic Theology/Books/Mark E Powell John Mark Hicks Greg McKinzie - Discipleship in Community - Chapters/Attachments/Discipleship in Community - Table of Salvation.png",
+    "0 - Incoming/Attachments/Trinity in Rom 8_1.jpg",
+    "3 - Efforts/Projects/Bible Classes/Junior-Senior Class - You and the Church/Attachments/College Readiness Plan Guide - QR Code.png",
+    "1 - Atlas/Reading/Literature Notes/Attachments/HausenRobertson-MorpheusDeepLearning-2020/image-11-x416-y582.png",
+    "1 - Atlas/Reading/Literature Notes/Attachments/BarchiEtAl-MachineDeepLearning-2020/image-8-x37-y586.png",
+    "1 - Atlas/Reading/Literature Notes/Attachments/BarchiEtAl-MachineDeepLearning-2020/image-3-x34-y164.png"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "enableInReadingView": true,
+  "enableSpellcheck": true,
+  "popoverEvent": "hover",
+  "defFileParseConfig": {
+    "defaultFileType": "atomic",
+    "divider": {
+      "dash": true,
+      "underscore": false
+    },
+    "autoPlurals": false
+  },
+  "defPopoverConfig": {
+    "displayAliases": false,
+    "displayDefFileName": false,
+    "enableCustomSize": false,
+    "maxWidth": 150,
+    "maxHeight": 150,
+    "popoverDismissEvent": "mouse_exit",
+    "enableDefinitionLink": true
+  },
+  "defFolder": "1 - Atlas/Definitions"
+}
