@@ -6,6 +6,8 @@ source: https://forum.obsidian.md/t/handle-your-meeting-notes-with-ease/45616/8
 summary: A student dropped by to ask me about Obsidian.
 ---
 
+# Meeting about Obsidian - 2025-11-14
+
 ## Meeting Quick Summary
 
 > [!summary] Key Links

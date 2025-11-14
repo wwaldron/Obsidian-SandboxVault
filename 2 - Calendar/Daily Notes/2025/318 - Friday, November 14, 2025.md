@@ -24,7 +24,7 @@ group by function task.tags.sort().join(", ")
 
 ## New Tasks
 
-- [ ] Publish template Vault #ToDo/PKM ⏫ 📅 2025-11-14 
+- [x] Publish template Vault #ToDo/PKM ⏫ 📅 2025-11-14 ✅ 2025-11-14
 
 ## Quick Notes
 
@@ -33,6 +33,9 @@ group by function task.tags.sort().join(", ")
 ## Meetings
 
 Meeting about Obsidian - **Quick Summary**
+
 ![[Meeting about Obsidian - 2025-11-14#^3d1233]]
 
 ## Journaling Notes
+
+Made a super awesome sandbox Vault for my students.

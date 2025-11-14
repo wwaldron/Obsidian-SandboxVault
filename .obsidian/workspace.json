@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md",
+                "file": "0 - Incoming/PH 111 - General Physics with Calculus 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meeting about Obsidian - 2025-11-14"
+              "title": "PH 111 - General Physics with Calculus 1"
             }
           }
         ]
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md"
+                "file": "0 - Incoming/PH 111 - General Physics with Calculus 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Meeting about Obsidian - 2025-11-14"
+              "title": "File properties for PH 111 - General Physics with Calculus 1"
             }
           },
           {
@@ -284,11 +284,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
-    "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md",
+    "0 - Incoming/Untitled.md",
     "README.md",
-    "2 - Calendar/Daily Notes/2025",
+    "0 - Incoming/PH 111 - General Physics with Calculus 1.md",
+    "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
+    "4 - Archive/Archive.md",
+    "3 - Efforts/Efforts.md",
     "2 - Calendar/Calendar.md",
+    "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md",
+    "2 - Calendar/Daily Notes/2025",
     "2 - Calendar/Meetings",
     "2 - Calendar/Emails",
     "2 - Calendar/Daily Notes",
@@ -315,10 +319,6 @@
     "5 - Templates/runImport.md",
     "5 - Templates/Podcast Series Template.md",
     "5 - Templates/Podcast Episode Note Trigger.md",
-    "5 - Templates/Podcast Episode Note Template.md",
-    "5 - Templates/Person Template.md",
-    "5 - Templates/Meeting Note Trigger.md",
-    "5 - Templates/Meeting Note Template.md",
-    "License.md"
+    "5 - Templates/Podcast Episode Note Template.md"
   ]
 }
