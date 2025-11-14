@@ -19,10 +19,21 @@ Obsidian is built around "wikilinks" that are essentially quick links to other f
 
 Many people who take notes throughout life discuss how difficult it is to categorize notes into folder. However, you will see in the file tree of this Vault that I have a loose set of folders setup that follows [Nick Milo's ACE Folder Framework](https://www.linkingyourthinking.com/lytcon-2023/nick-milo) detailed below.
 
-| Folder   | Files in Folder                                                 |
-| -------- | --------------------------------------------------------------- |
-| Incoming | Files yet to be sorted (where new files are created by default) |
-|          |                                                                 |
+| Folder    | Files in Folder                                                 |
+| --------- | --------------------------------------------------------------- |
+| Incoming  | Files yet to be sorted (where new files are created by default) |
+| Atlas     | Place / Idea oriented files                                     |
+| Calendar  | Time oriented files (*e.g.*, daily notes, meetings)             |
+| Efforts   | Current projects and their related files                        |
+| Archive   | Files not currently needed (instead of sending to trash)        |
+| Templates | For file type structures                                        |
 
+Unfortunately, it is often difficult to know how to sort your files as they come into your Vault which is where tags come in. Tags are created inline with the `#` symbol or listed in the properties of the file and are another way to organize your notes. For example, this paragraph is tagged with the `#ReadMe` tag which will link it to anywhere else in my vault that uses that tag. #ReadMe
+
+### Properties and Bases
+
+Obsidian allows the addition of [YAML](https://yaml.org/) properties at the head of the file (note that I have hidden properties by default). Properties allow you to add meta-data to your files that make them easily searched/sorted later.
+
+Recently, Obsidian released a feature called "Bases"
 
 [^1]: Many people who choose Obsidian do so because they want to always be able to read their files. That is to say, if Obsidian ceases to exist, you will still be able to read the files made in Obsidian using any other text program.

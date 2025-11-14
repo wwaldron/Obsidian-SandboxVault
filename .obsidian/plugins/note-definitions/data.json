@@ -3,7 +3,7 @@
   "enableSpellcheck": true,
   "popoverEvent": "hover",
   "defFileParseConfig": {
-    "defaultFileType": "atomic",
+    "defaultFileType": "consolidated",
     "divider": {
       "dash": true,
       "underscore": false
