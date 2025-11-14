@@ -61,8 +61,6 @@ Lecture Date: `INPUT[dateTime:date]`
 
 ## Quotes
 
-## Scripture References
-
 ## Tasks
 
 - [ ]

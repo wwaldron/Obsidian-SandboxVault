@@ -77,8 +77,6 @@ actions:
 
 ## Quotes
 
-## Scripture References
-
 ## Tasks
 
 - [ ]

@@ -5,6 +5,8 @@ authors:
 
 # Will Waldron's Obsidian Starter Vault
 
+![Image of Handwritten Notes with Fountain Pen|300](https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 Welcome to my [Obsidian](https://obsidian.md/) Template/Sandbox vault. If you are unfamiliar with Obsidian then it would be worthwhile to familiarize yourself with their [help documents / documentation](https://help.obsidian.md/). Obsidian is based off of plain text Markdown files (extension `.md`). If you are unfamiliar with Markdown then you should know that Markdown files can be read/opened by any app/software on your device that can read text files.[^1] If you find the idea of learning a formatted text schema then there are a number of resources that can help you.
 
 1. Obsidian has a command palette (opened in the left-hand button menu or by pressing `Ctrl/Cmd + p`) that has ways to insert any Markdown feature (*e.g,*, lists or tables).
@@ -85,6 +87,6 @@ My templates are divided into two categories:
 
 #### Example with Templates
 
-If I wanted to create a new parent folder for a course I was taking at UAH, I could open the command palette and create the "Course Note Trigger." This will create the necessary file after making 
+If I wanted to create a new parent folder for a course I was taking at UAH (as an example of a created file see [[PH 111 - General Physics with Calculus 1]]), I could open the command palette and create the "Course Note Trigger." This will create the necessary file after asking some preliminary questions about the course. Then, each lecture can have its own note using the "Create New Lecture Note" button.
 
 [^1]: Many people who choose Obsidian do so because they want to always be able to read their files. That is to say, if Obsidian ceases to exist, you will still be able to read the files made in Obsidian using any other text program.

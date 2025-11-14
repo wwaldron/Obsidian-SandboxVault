@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Incoming/PH 111 - General Physics with Calculus 1.md",
+                "file": "5 - Templates/runImport.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PH 111 - General Physics with Calculus 1"
+              "title": "runImport"
             }
           }
         ]
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 - Incoming/PH 111 - General Physics with Calculus 1.md"
+                "file": "5 - Templates/runImport.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for PH 111 - General Physics with Calculus 1"
+              "title": "File properties for runImport"
             }
           },
           {
@@ -284,9 +284,31 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "0 - Incoming/Untitled.md",
+    "5 - Templates/Podcast Series Template.md",
+    "5 - Templates/Podcast Episode Note Template.md",
+    "5 - Templates/Podcast Episode Note Trigger.md",
+    "5 - Templates/Person Template.md",
+    "5 - Templates/New Book Template.md",
+    "5 - Templates/Meeting Note Template.md",
+    "5 - Templates/Lecture Note Template.md",
+    "5 - Templates/Lecture Note Trigger.md",
+    "5 - Templates/Email Trigger.md",
+    "5 - Templates/Email Template.md",
+    "5 - Templates/Definition Template.md",
+    "5 - Templates/Daily Note Template.md",
+    "5 - Templates/Course Note Trigger.md",
+    "5 - Templates/Course Note Template.md",
+    "5 - Templates/Chapter Note Trigger.md",
+    "5 - Templates/Chapter Note Template.md",
     "README.md",
-    "0 - Incoming/PH 111 - General Physics with Calculus 1.md",
+    "1 - Atlas/Education/UAH/PH 111/PH 111 - General Physics with Calculus 1.md",
+    "1 - Atlas/Education/UAH/PH 111",
+    "1 - Atlas/Education/UAH",
+    "1 - Atlas/Education",
+    "1 - Atlas/Education/UAH/PH 111/Lectures/PH 111 - General Physics with Calculus 1 - Lecture 01.md",
+    "License.md",
+    "1 - Atlas/Education/UAH/PH 111/Lectures",
+    "0 - Incoming/Untitled.md",
     "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
     "4 - Archive/Archive.md",
     "3 - Efforts/Efforts.md",
@@ -296,29 +318,7 @@
     "2 - Calendar/Meetings",
     "2 - Calendar/Emails",
     "2 - Calendar/Daily Notes",
-    "1 - Atlas/Atlas.md",
-    "1 - Atlas/Reading/Books/Stephen Hawking - A Brief History of Time.md",
-    "5 - Templates/New Book Template.md",
     "1 - Atlas/Reading/Books.base",
-    "1 - Atlas/Reading/Books",
-    "1 - Atlas/Reading/Clippings Processing.base",
-    "1 - Atlas/Reading",
-    "1 - Atlas/New folder",
-    "1 - Atlas/Physics.md",
-    "1 - Atlas/Definitions",
-    "5 - Templates/Lecture Note Trigger.md",
-    "5 - Templates/Lecture Note Template.md",
-    "5 - Templates/Email Trigger.md",
-    "5 - Templates/Email Template.md",
-    "5 - Templates/Definition Template.md",
-    "5 - Templates/Daily Note Template.md",
-    "5 - Templates/Course Note Trigger.md",
-    "5 - Templates/Course Note Template.md",
-    "5 - Templates/Chapter Note Trigger.md",
-    "5 - Templates/Chapter Note Template.md",
-    "5 - Templates/runImport.md",
-    "5 - Templates/Podcast Series Template.md",
-    "5 - Templates/Podcast Episode Note Trigger.md",
-    "5 - Templates/Podcast Episode Note Template.md"
+    "1 - Atlas/Reading/Books"
   ]
 }

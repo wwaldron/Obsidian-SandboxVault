@@ -2,12 +2,12 @@
 parent:
 aliases: []
 instructor:
-description:
+description: "For science and engineering students. Basic laws of physics and their application to specific problems: vectors, Newtonian mechanics, energy, conservation laws, simple harmonic motion, statics, fluids. Offered all terms."
 ---
 
 # PH 111 - General Physics with Calculus 1
 
-> [!summary] [Catalog Description]()
+> [!summary] [Catalog Description](https://ssbprod.uah.edu/PROD/bwckctlg.p_disp_course_detail?cat_term_in=202201&subj_code_in=PH&crse_numb_in=111)
 > `INPUT[textArea:description]`
 
 ## Semester
