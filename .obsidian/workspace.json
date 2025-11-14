@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "871f85fce921ae84",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a61bbf59d2b9b650",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "92cc3cfc09173d1b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "eb18a020bffba031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "License.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "License"
-            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "186566c36331c546",
@@ -269,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 02.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MADS 3501 - Ascending the Lords Mountain - Lecture 02"
+              "title": "Outline of README"
             }
           },
           {
@@ -287,7 +263,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "podcas"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -307,7 +283,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -328,13 +305,18 @@
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "92cc3cfc09173d1b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "License.md",
     "README.md",
+    "License.md",
+    "3 -",
+    "2 - Calendar",
+    "1 - Atlas",
+    "0 - Incoming",
     "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/MADS 3501 - Ascending the Lords Mountain.md",
     "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Lectures/MADS 3501 - Ascending the Lords Mountain - Lecture 03.md",
     "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Pre-Existing Relevant Notes/L Michael Morales - Cult and Cosmos - Tilting toward a Temple-Centered Theology - Chapters/Wenham - Cult and Cosmos - Chapter 10 - Eden.md",
@@ -362,13 +344,8 @@
     "5 - Templates/Person Template.md",
     "5 - Templates/New Book Template.md",
     "5 - Templates/Meeting Note Trigger.md",
-    "5 - Templates/Meeting Note Template.md",
     "0 - Incoming/Untitled.base",
     "bibleproject.com/podcasts",
-    "bibleproject.com",
-    "1 - Atlas/Podcasts",
-    "1 - Atlas/Bible Study/Bible Classes and Sermons/Classes/Lectures",
-    "3 - Efforts/Projects/Bible Classes/Mountain Bible Class/Attachments",
     "4 - Archive/Junior-Senior Class - You and the Church/Attachments/College Readiness Plan Guide - QR Code.png",
     "1 - Atlas/Education/UAH/PhysicsProgramAssessmentAttempt_1.jpg",
     "1 - Atlas/Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
