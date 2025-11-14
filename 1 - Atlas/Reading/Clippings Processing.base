@@ -1,0 +1,103 @@
+filters:
+  and:
+    - file.hasProperty("progressiveSummaryLevel")
+formulas:
+  Title Link: link(file.name, title)
+properties:
+  file.name:
+    displayName: File Name
+  note.authors:
+    displayName: Author(s)
+  note.title:
+    displayName: Title
+  note.publisher:
+    displayName: Publisher
+  note.published:
+    displayName: Date Published
+  note.created:
+    displayName: Date Created
+views:
+  - type: cards
+    name: Clippings to Read
+    filters:
+      and:
+        - progressiveSummaryLevel == 1
+    order:
+      - formula.Title Link
+      - authors
+      - publisher
+      - published
+      - created
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.Title Link: 434
+      note.authors: 195
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 0.6
+    cardSize: 190
+  - type: cards
+    name: Clippings to Annotate
+    filters:
+      and:
+        - progressiveSummaryLevel == 2
+    order:
+      - formula.Title Link
+      - authors
+      - publisher
+      - published
+      - created
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.Title Link: 349
+      note.authors: 195
+      note.publisher: 122
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 0.6
+    cardSize: 190
+  - type: cards
+    name: Clippings to Summarize
+    filters:
+      and:
+        - progressiveSummaryLevel == 3
+    order:
+      - formula.Title Link
+      - authors
+      - publisher
+      - published
+      - created
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.Title Link: 328
+      note.authors: 195
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 0.6
+    cardSize: 190
+  - type: cards
+    name: Summarized Clippings
+    filters:
+      and:
+        - progressiveSummaryLevel == 4
+    order:
+      - formula.Title Link
+      - authors
+      - publisher
+      - published
+      - created
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.Title Link: 349
+      note.authors: 195
+    cardSize: 190
+    image: note.cover
+    imageAspectRatio: 0.6

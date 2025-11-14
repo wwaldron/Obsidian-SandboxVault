@@ -1,0 +1,163 @@
+filters:
+  and:
+    - file.hasProperty("cover")
+    - file.hasProperty("title")
+formulas:
+  Overdue: now().date() > bookReturnDate
+properties:
+  note.author:
+    displayName: Author
+  note.title:
+    displayName: Title
+  note.authors:
+    displayName: Author(s)
+  note.rating:
+    displayName: Rating
+  note.SortName:
+    displayName: Sort Name
+  note.publish:
+    displayName: Date Published
+  note.bookReturnDate:
+    displayName: Due Date
+  note.checkedOutTo:
+    displayName: Loaned To
+  note.loanedTo:
+    displayName: Loaned To
+  note.recommendedBy:
+    displayName: Recommended by
+views:
+  - type: cards
+    name: Books to Read
+    filters:
+      and:
+        - shelf == "To Read"
+    order:
+      - title
+      - authors
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    image: note.cover
+    imageFit: ""
+    imageAspectRatio: 1.55
+    cardSize: 150
+  - type: cards
+    name: Books I'm Interested in Reading
+    filters:
+      and:
+        - shelf == "Interested"
+    order:
+      - title
+      - authors
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    cardSize: 150
+    image: note.cover
+    imageAspectRatio: 1.55
+  - type: cards
+    name: Books Recommended to Me
+    filters:
+      and:
+        - shelf == "Recommended"
+    order:
+      - file.name
+      - authors
+      - recommendedBy
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    cardSize: 150
+    imageAspectRatio: 1.55
+    image: note.cover
+  - type: cards
+    name: Books I'm Reading
+    filters:
+      and:
+        - shelf == "Reading"
+    order:
+      - title
+      - authors
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    cardSize: 150
+    image: note.cover
+    imageFit: ""
+    imageAspectRatio: 1.55
+  - type: cards
+    name: Finished Books
+    filters:
+      and:
+        - shelf == "Finished"
+    order:
+      - title
+      - authors
+      - rating
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    imageAspectRatio: 1.55
+    image: note.cover
+    cardSize: 150
+  - type: cards
+    name: Books I Stopped Reading
+    filters:
+      and:
+        - shelf == "Stopped"
+    order:
+      - title
+      - authors
+      - rating
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    cardSize: 150
+    imageAspectRatio: 1.55
+    image: note.cover
+  - type: cards
+    name: Archived Books
+    filters:
+      and:
+        - shelf == "Archive"
+    order:
+      - title
+      - authors
+    sort:
+      - property: SortName
+        direction: ASC
+      - property: title
+        direction: ASC
+    image: note.cover
+    imageAspectRatio: 1.55
+    cardSize: 150
+  - type: cards
+    name: Loaned Books
+    filters:
+      and:
+        - "!loanedTo.isEmpty()"
+    order:
+      - title
+      - authors
+      - loanedTo
+      - bookReturnDate
+      - formula.Overdue
+    sort:
+      - property: bookReturnDate
+        direction: DESC
+    cardSize: 150
+    imageAspectRatio: 1.55
+    image: note.cover
+    imageFit: ""

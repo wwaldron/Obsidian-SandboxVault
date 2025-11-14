@@ -32,8 +32,39 @@ Unfortunately, it is often difficult to know how to sort your files as they come
 
 ### Properties and Bases
 
-Obsidian allows the addition of [YAML](https://yaml.org/) properties at the head of the file (note that I have hidden properties by default). Properties allow you to add meta-data to your files that make them easily searched/sorted later.
+Obsidian allows the addition of [YAML](https://yaml.org/) properties at the head of the file (note that I have hidden properties by default). Properties allow you to add metadata to your files that make them easily searched/sorted later.
 
-Recently, Obsidian released a feature called "Bases"
+Recently, Obsidian released a feature called "[Bases](https://help.obsidian.md/bases)" that allows for convenient organization of your notes based on their properties. See the [[Books.base|Books]] base file for an example that sorts based on metadata or below for a base that lists all the files in the templates folder.
+
+```base
+properties:
+  file.name:
+    displayName: File Name
+  file.size:
+    displayName: File Size (bytes)
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("5 - Templates")
+    order:
+      - file.name
+      - file.size
+
+```
+
+### Third Party Plugins
+
+This template Vault comes with several installed / enabled 3rd Party Plug-Ins (see below).
+
+
+| Plug-In         | Status    | Description                                                               |
+| --------------- | --------- | ------------------------------------------------------------------------- |
+| Bible Reference | Enabled   | Easy referencing of Bible passages                                        |
+| Book Search     | Enabled   | Easy creation of Book notes (search "Create Book" in the command palette) |
+| Dataview        | Installed | Javascript note organization                                              |
+| Excalidraw      |           |                                                                           |
+
 
 [^1]: Many people who choose Obsidian do so because they want to always be able to read their files. That is to say, if Obsidian ceases to exist, you will still be able to read the files made in Obsidian using any other text program.
