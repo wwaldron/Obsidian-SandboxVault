@@ -120,11 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties"
             }
           },
           {
@@ -282,8 +280,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8811bb3b6e4c50ae",
+  "active": "3bbf7b48caa641ce",
   "lastOpenFiles": [
+    "README.md",
     "5 - Templates/Lecture Note Trigger.md",
     "5 - Templates/Lecture Note Template.md",
     "5 - Templates/Email Trigger.md",
@@ -302,7 +301,6 @@
     "5 - Templates/New Book Template.md",
     "5 - Templates/Meeting Note Trigger.md",
     "5 - Templates/Meeting Note Template.md",
-    "README.md",
     "License.md"
   ]
 }
