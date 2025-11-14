@@ -19,14 +19,14 @@ Obsidian is built around "wikilinks" that are essentially quick links to other f
 
 Many people who take notes throughout life discuss how difficult it is to categorize notes into folder. However, you will see in the file tree of this Vault that I have a loose set of folders setup that follows [Nick Milo's ACE Folder Framework](https://www.linkingyourthinking.com/lytcon-2023/nick-milo) detailed below.
 
-| Folder    | Files in Folder                                                 |
-| --------- | --------------------------------------------------------------- |
-| Incoming  | Files yet to be sorted (where new files are created by default) |
-| Atlas     | Place / Idea oriented files                                     |
-| Calendar  | Time oriented files (*e.g.*, daily notes, meetings)             |
-| Efforts   | Current projects and their related files                        |
-| Archive   | Files not currently needed (instead of sending to trash)        |
-| Templates | For file type structures                                        |
+| Folder       | Files in Folder                                                 |
+| ------------ | --------------------------------------------------------------- |
+| Incoming     | Files yet to be sorted (where new files are created by default) |
+| [[Atlas]]    | Place / Idea oriented files                                     |
+| [[Calendar]] | Time oriented files (*e.g.*, daily notes, meetings)             |
+| [[Efforts]]  | Current projects and their related files                        |
+| [[Archive]]  | Files not currently needed (instead of sending to trash)        |
+| Templates    | For file type structures                                        |
 
 Unfortunately, it is often difficult to know how to sort your files as they come into your Vault which is where tags come in. Tags are created inline with the `#` symbol or listed in the properties of the file and are another way to organize your notes. For example, this paragraph is tagged with the `#ReadMe` tag which will link it to anywhere else in my vault that uses that tag. #ReadMe
 
@@ -58,13 +58,22 @@ views:
 
 This template Vault comes with several installed / enabled 3rd Party Plug-Ins (see below).
 
-
-| Plug-In         | Status    | Description                                                               |
-| --------------- | --------- | ------------------------------------------------------------------------- |
-| Bible Reference | Enabled   | Easy referencing of Bible passages                                        |
-| Book Search     | Enabled   | Easy creation of Book notes (search "Create Book" in the command palette) |
-| Dataview        | Installed | Javascript note organization                                              |
-| Excalidraw      |           |                                                                           |
-
+| Plug-In            | Status    | Description                                                               |
+| ------------------ | --------- | ------------------------------------------------------------------------- |
+| Bible Reference    | Enabled   | Easy referencing of Bible passages                                        |
+| Book Search        | Enabled   | Easy creation of Book notes (search "Create Book" in the command palette) |
+| Dataview           | Installed | Javascript note organization                                              |
+| Excalidraw         | Enabled   | Graphics creation                                                         |
+| Git                | Enabled   | File Backup to Git Repo hosting website                                   |
+| Importer           | Installed | Bring in files from other note systems                                    |
+| Linter             | Enabled   | Correct for file format issues on save                                    |
+| Meta Bind          | Enabled   | Buttons and Easy property manipulation                                    |
+| Note Definitons    | Enabled   | Personal dictionary                                                       |
+| Quick Switcher++   | Enabled   | Better file switcher                                                      |
+| Style Settings     | Enabled   | Personalized look and feel                                                |
+| Tag Wrangler       | Enabled   | More flexible file tagging                                                |
+| Tasks              | Enabled   | Search files for Tasks                                                    |
+| Templater          | Enabled   | More advanced template file utility                                       |
+| Zotero Integration | Installed | Pull in files from Zotero                                                 |
 
 [^1]: Many people who choose Obsidian do so because they want to always be able to read their files. That is to say, if Obsidian ceases to exist, you will still be able to read the files made in Obsidian using any other text program.

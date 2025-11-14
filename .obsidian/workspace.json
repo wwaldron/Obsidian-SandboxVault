@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Meeting about Obsidian - 2025-11-14"
             }
           }
         ]
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Meeting about Obsidian - 2025-11-14"
             }
           },
           {
@@ -284,10 +284,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
+    "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md",
+    "README.md",
+    "2 - Calendar/Daily Notes/2025",
+    "2 - Calendar/Calendar.md",
+    "2 - Calendar/Meetings",
+    "2 - Calendar/Emails",
+    "2 - Calendar/Daily Notes",
+    "1 - Atlas/Atlas.md",
     "1 - Atlas/Reading/Books/Stephen Hawking - A Brief History of Time.md",
     "5 - Templates/New Book Template.md",
     "1 - Atlas/Reading/Books.base",
-    "README.md",
     "1 - Atlas/Reading/Books",
     "1 - Atlas/Reading/Clippings Processing.base",
     "1 - Atlas/Reading",
