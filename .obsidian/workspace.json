@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "186566c36331c546",
@@ -283,8 +282,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8811bb3b6e4c50ae",
   "lastOpenFiles": [
+    "5 - Templates/Lecture Note Trigger.md",
+    "5 - Templates/Lecture Note Template.md",
+    "5 - Templates/Email Trigger.md",
+    "5 - Templates/Email Template.md",
+    "5 - Templates/Definition Template.md",
+    "5 - Templates/Daily Note Template.md",
+    "5 - Templates/Course Note Trigger.md",
+    "5 - Templates/Course Note Template.md",
+    "5 - Templates/Chapter Note Trigger.md",
+    "5 - Templates/Chapter Note Template.md",
+    "5 - Templates/runImport.md",
+    "5 - Templates/Podcast Series Template.md",
+    "5 - Templates/Podcast Episode Note Trigger.md",
+    "5 - Templates/Podcast Episode Note Template.md",
+    "5 - Templates/Person Template.md",
+    "5 - Templates/New Book Template.md",
+    "5 - Templates/Meeting Note Trigger.md",
+    "5 - Templates/Meeting Note Template.md",
     "README.md",
     "License.md"
   ]
