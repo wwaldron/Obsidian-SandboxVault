@@ -22,7 +22,7 @@ if (held != triggered_date) {
 
 final_name += topic + " - " + held
 
-tR += name + " - **Quick Summary**\n"
+tR += name + " - **Quick Summary** "
 tR += "!\[\[" + final_name + "#^3d1233\]\]"
 tp.file.create_new(tp.file.find_tfile("Meeting Note Template"), final_name, true, app.vault.getAbstractFileByPath("2 - Calendar/Meetings"))
 

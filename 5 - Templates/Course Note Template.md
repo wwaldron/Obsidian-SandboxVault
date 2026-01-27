@@ -88,3 +88,49 @@ views:
       note.date: 193
 
 ```
+
+## Atomic Notes
+
+```meta-bind-button
+label: Create New Atomic Note
+icon: atom
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: Creates a new atomic note.
+id: ""
+hidden: false
+actions:
+  - type: runTemplaterFile
+    templateFile: 5 - Templates/Atomic Note Trigger.md
+```
+
+```base
+filters:
+  and:
+    - parent == this.file
+    - file.tags.contains("atomic")
+formulas:
+  Title Link: file.asLink(aliases[0])
+properties:
+  note.about:
+    displayName: About
+  note.created:
+    displayName: Created
+  note.topics:
+    displayName: Topics
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Title Link
+      - created
+      - topics
+    sort:
+      - property: created
+        direction: DESC
+    columnSize:
+      formula.Title Link: 300
+      note.created: 150
+```

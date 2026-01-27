@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "399ffe612d46d6ec",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3b57f6c97e382ccc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -106,9 +120,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for README"
             }
           },
           {
@@ -266,8 +282,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3b57f6c97e382ccc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "5 - Templates/runImport.md",
     "5 - Templates/Podcast Series Template.md",
     "5 - Templates/Podcast Episode Note Template.md",
@@ -285,7 +302,6 @@
     "5 - Templates/Course Note Template.md",
     "5 - Templates/Chapter Note Trigger.md",
     "5 - Templates/Chapter Note Template.md",
-    "README.md",
     "1 - Atlas/Education/UAH/PH 111/PH 111 - General Physics with Calculus 1.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",

@@ -9,24 +9,26 @@ rating:
 readdates.started:
 readdates.finished:
 shelf: To Read
+location: N/A
 list:
 publisher: {{publisher}}
 published: {{publishDate}}
 pages: {{totalPage}}
 isbn: {{isbn10}}
 cover: <%=book.coverUrl ? `https://books.google.com/books/publisher/content/images/frontcover/${[...book.coverUrl.split("&")[0].matchAll(/id.?(.*)/g)][0][1]}?fife=w600-h900&source=gbs_api` : ''%>
-dateCreated: {{date}}
+created: {{date}}
 format:
 recommendedBy:
 loanedTo:
 bookReturnDate:
 previousLoans:
-parent: [[Books.base]]
 ---
 
 `VIEW[{cover}][image]`
 
-Current Shelf: `INPUT[inlineSelect(title(Current Shelf), option(To Read), option(Interested), option(Recommended), option(Reading), option(Finished), option(Stopped), option(Archived)):shelf]`
+Current Shelf/Status: `INPUT[inlineSelect(title(Current Shelf), option(To Read), option(Interested), option(Recommended), option(Reading), option(Finished), option(Stopped), option(Archived)):shelf]`
+
+Location: `INPUT[inlineSelect(title(Location), defaultValue(N/A), option(Home), option(Office), option(Loaned Out), option(Kindle), option(Remarkable), option(Library Loan), option(Library eBook), option(N/A)):location]`
 
 ## {{title}}
 
@@ -83,6 +85,52 @@ views:
     columnSize:
       formula.Title Link: 200
       note.date: 200
+```
+
+#### Atomic Notes
+
+```meta-bind-button
+label: Create New Atomic Note
+icon: atom
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: Creates a new atomic note.
+id: ""
+hidden: false
+actions:
+  - type: runTemplaterFile
+    templateFile: 5 - Templates/Atomic Note Trigger.md
+```
+
+```base
+filters:
+  and:
+    - parent == this.file
+    - file.tags.contains("atomic")
+formulas:
+  Title Link: file.asLink(aliases[0])
+properties:
+  note.about:
+    displayName: About
+  note.created:
+    displayName: Created
+  note.topics:
+    displayName: Topics
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Title Link
+      - created
+      - topics
+    sort:
+      - property: created
+        direction: DESC
+    columnSize:
+      formula.Title Link: 300
+      note.created: 150
 ```
 
 ### Review
