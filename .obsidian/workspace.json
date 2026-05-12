@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "33a5fda1345d69d5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3df481332cccb175",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Templates/Course Note Trigger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Course Note Trigger"
-            }
-          },
-          {
-            "id": "49f0415c3fd89a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "132 - Tuesday, May 12, 2026"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 132 - Tuesday, May 12, 2026"
+              "title": "Graph view"
             }
           },
           {
@@ -317,10 +277,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "49f0415c3fd89a2c",
+  "active": "3df481332cccb175",
   "lastOpenFiles": [
-    "2 - Calendar/Meeting with Rod about DND.md",
+    "README.md",
     "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
+    "2 - Calendar/Meeting with Rod about DND.md",
     "1 - Atlas/People/Rod Davidson.md",
     "0 - Incoming/Untitled.base",
     "5 - Templates/Person Template.md",
@@ -332,7 +293,6 @@
     "0 - Incoming/This.md",
     "5 - Templates/Course Note Trigger.md",
     "1 - Atlas/Education/UAH/PH 111/PH 111 - General Physics with Calculus 1.md",
-    "README.md",
     "0 - Incoming/PH 113 - General Physics 3.md",
     "0 - Incoming/Lectures/PH 113 - General Physics 3 - Lecture 01.md",
     "5 - Templates/Chapter Note Trigger.md",
