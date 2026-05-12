@@ -35,13 +35,24 @@
             "id": "49f0415c3fd89a2c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "0 - Incoming/Untitled.base",
-                "viewName": "Table"
+                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "132 - Tuesday, May 12, 2026"
             }
           }
         ],
@@ -135,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 - Incoming/Untitled.base"
+                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for 132 - Tuesday, May 12, 2026"
             }
           },
           {
@@ -173,8 +184,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from README"
             }
+          },
+          {
+            "id": "2d990190dba5dbb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -187,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of 132 - Tuesday, May 12, 2026"
             }
           },
           {
@@ -270,8 +292,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -298,9 +319,10 @@
   },
   "active": "49f0415c3fd89a2c",
   "lastOpenFiles": [
+    "2 - Calendar/Meeting with Rod about DND.md",
+    "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
     "1 - Atlas/People/Rod Davidson.md",
     "0 - Incoming/Untitled.base",
-    "2 - Calendar/Meeting with Rod about DND.md",
     "5 - Templates/Person Template.md",
     "1 - Atlas/People",
     "0 - Incoming/Lectures/PH 306 - Coputational Physics - Lecture 01.md",
@@ -325,7 +347,6 @@
     "5 - Templates/Lecture Note Trigger.md",
     "5 - Templates/Email Trigger.md",
     "5 - Templates/Email Template.md",
-    "5 - Templates/Definition Template.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",
     "1 - Atlas/Education",
