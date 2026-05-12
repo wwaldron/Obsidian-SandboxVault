@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5 - Templates/Course Note Trigger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Course Note Trigger"
+            }
+          },
+          {
+            "id": "49f0415c3fd89a2c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "0 - Incoming/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "0 - Incoming/Untitled.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -282,20 +296,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "49f0415c3fd89a2c",
   "lastOpenFiles": [
-    "README.md",
+    "1 - Atlas/People/Rod Davidson.md",
+    "0 - Incoming/Untitled.base",
+    "2 - Calendar/Meeting with Rod about DND.md",
+    "5 - Templates/Person Template.md",
+    "1 - Atlas/People",
+    "0 - Incoming/Lectures/PH 306 - Coputational Physics - Lecture 01.md",
+    "0 - Incoming/PH 306 - Coputational Physics.md",
+    "0 - Incoming/Lectures",
     "0 - Incoming/Untitled.md",
+    "0 - Incoming/This.md",
+    "5 - Templates/Course Note Trigger.md",
+    "1 - Atlas/Education/UAH/PH 111/PH 111 - General Physics with Calculus 1.md",
+    "README.md",
     "0 - Incoming/PH 113 - General Physics 3.md",
     "0 - Incoming/Lectures/PH 113 - General Physics 3 - Lecture 01.md",
     "5 - Templates/Chapter Note Trigger.md",
     "5 - Templates/Chapter Note Template.md",
-    "0 - Incoming/Lectures",
     "5 - Templates/runImport.md",
     "5 - Templates/Podcast Series Template.md",
     "5 - Templates/Podcast Episode Note Template.md",
     "5 - Templates/Podcast Episode Note Trigger.md",
-    "5 - Templates/Person Template.md",
     "5 - Templates/New Book Template.md",
     "5 - Templates/Meeting Note Template.md",
     "5 - Templates/Lecture Note Template.md",
@@ -303,22 +326,12 @@
     "5 - Templates/Email Trigger.md",
     "5 - Templates/Email Template.md",
     "5 - Templates/Definition Template.md",
-    "5 - Templates/Daily Note Template.md",
-    "5 - Templates/Course Note Trigger.md",
-    "5 - Templates/Course Note Template.md",
-    "1 - Atlas/Education/UAH/PH 111/PH 111 - General Physics with Calculus 1.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",
     "1 - Atlas/Education",
-    "1 - Atlas/Education/UAH/PH 111/Lectures/PH 111 - General Physics with Calculus 1 - Lecture 01.md",
-    "License.md",
     "1 - Atlas/Education/UAH/PH 111/Lectures",
-    "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
-    "4 - Archive/Archive.md",
     "2 - Calendar/Daily Notes/2025",
     "2 - Calendar/Meetings",
-    "2 - Calendar/Emails",
-    "2 - Calendar/Daily Notes",
-    "1 - Atlas/Reading/Books.base"
+    "2 - Calendar/Emails"
   ]
 }
