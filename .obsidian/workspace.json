@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```base",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +171,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -268,8 +267,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -294,7 +292,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1977813093f03f14",
+  "active": "4779a85c1c634bfe",
   "lastOpenFiles": [
     "2 - Calendar/Daily Notes/2026/132 - Tuesday, May 12, 2026.md",
     "1 - Atlas/People/Student MoC.md",
