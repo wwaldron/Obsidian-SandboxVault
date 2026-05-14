@@ -1,3 +1,32 @@
+filters:
+  and:
+    - '!file.path.contains("5 - Templates")'
+    - or:
+        - file.tags.contains("PeriodicNote/Daily")
+        - parent.contains(link("Daily Notes.base"))
+properties:
+  file.name:
+    displayName: Daily Note
+  file.links:
+    displayName: Outgoing Links
 views:
   - type: table
-    name: Table
+    name: "2026"
+    filters:
+      and:
+        - year == 2026
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: DESC
+  - type: table
+    name: "2025"
+    filters:
+      and:
+        - year == 2025
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: DESC

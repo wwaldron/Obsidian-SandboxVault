@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.hasLink(this.file)
+properties:
+  file.name:
+    displayName: Person
+  note.birthday:
+    displayName: Birthday
+  note.organization:
+    displayName: Organization
+  note.first-name:
+    displayName: First Name
+  note.middle-name:
+    displayName: Middle Name
+  note.last-name:
+    displayName: Last Name
+views:
+  - type: table
+    name: People I've Met
+    filters:
+      and:
+        - personMet == true
+    order:
+      - file.name
+      - birthday
+      - organization
+    sort:
+      - property: last-name
+        direction: ASC
+      - property: first-name
+        direction: ASC
+  - type: table
+    name: People Not Met
+    filters:
+      and:
+        - personMet == false
+    order:
+      - file.name
+      - organization
+    sort:
+      - property: last-name
+        direction: ASC
+      - property: first-name
+        direction: ASC
+    columnSize:
+      file.name: 153
