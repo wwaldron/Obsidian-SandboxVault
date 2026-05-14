@@ -1,6 +1,7 @@
 filters:
-  and:
-    - file.hasLink(this.file)
+  or:
+    - file.hasLink("1 - Atlas/People/People MoC")
+    - file.tags.contains("person")
 properties:
   file.name:
     displayName: Person
