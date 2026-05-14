@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md",
+                "file": "5 - Templates/Student Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Student MoC"
+              "title": "Student Template"
             }
           }
         ]
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md"
+                "file": "5 - Templates/Student Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Student MoC"
+              "title": "File properties for Student Template"
             }
           },
           {
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md",
+                "file": "5 - Templates/Student Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Student MoC"
+              "title": "Graph of Student Template"
             }
           },
           {
@@ -266,7 +266,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -293,14 +294,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1 - Atlas/People/John Doe.md",
     "1 - Atlas/People/Student MoC.md",
-    "1 - Atlas/People/Stephen Hawking.md",
     "1 - Atlas/People/Jane Doe.md",
+    "5 - Templates/Student Template.md",
+    "1 - Atlas/People/John Doe.md",
+    "1 - Atlas/People/Stephen Hawking.md",
     "1 - Atlas/Reading/Books/Stephen Hawking - A Brief History of Time.md",
     "1 - Atlas/People/People MoC.md",
     "README.md",
-    "5 - Templates/Student Template.md",
     "5 - Templates/Person Template.md",
     "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
     "2 - Calendar/Meeting with Rod about DND.md",

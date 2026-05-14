@@ -34,6 +34,12 @@ filters:
 properties:
   file.name:
     displayName: Student's Name
+  note.studentLevel:
+    displayName: Level
+  note.advisor:
+    displayName: Advisor
+  note.email:
+    displayName: Email
 views:
   - type: table
     name: My Current Advisees
@@ -41,8 +47,125 @@ views:
       and:
         - advisor == "Me"
         - currentStudent == true
+    order:
+      - file.name
+      - email
+      - studentLevel
     sort:
-      - property: file.name
+      - property: last-name
         direction: ASC
+    columnSize:
+      file.name: 198
+      note.email: 150
+  - type: table
+    name: All My Advisees
+    filters:
+      and:
+        - advisor == "Me"
+        - currentStudent == true
+    order:
+      - file.name
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.email: 150
+  - type: table
+    name: All Students
+    filters:
+      and:
+        - currentStudent == true
+    order:
+      - file.name
+      - advisor
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.advisor: 169
+      note.email: 150
+      note.studentLevel: 101
+  - type: table
+    name: Undergraduates
+    filters:
+      and:
+        - currentStudent == true
+        - studentLevel == "Undergraduate"
+    order:
+      - file.name
+      - advisor
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.advisor: 169
+      note.email: 150
+      note.studentLevel: 101
+  - type: table
+    name: Masters
+    filters:
+      and:
+        - currentStudent == true
+        - studentLevel == "Masters"
+    order:
+      - file.name
+      - advisor
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.advisor: 169
+      note.email: 150
+      note.studentLevel: 101
+  - type: table
+    name: PhD
+    filters:
+      and:
+        - currentStudent == true
+        - studentLevel == "PhD"
+    order:
+      - file.name
+      - advisor
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.advisor: 169
+      note.email: 150
+      note.studentLevel: 101
+  - type: table
+    name: Post Docs
+    filters:
+      and:
+        - currentStudent == true
+        - studentLevel == "PhD"
+    order:
+      - file.name
+      - advisor
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.advisor: 169
+      note.email: 150
+      note.studentLevel: 101
 
 ```

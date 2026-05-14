@@ -4,7 +4,7 @@ parent:
   - "[[Student MoC]]"
 tags:
   - person
-  - student
+  - person/student
 first-name: John
 middle-name:
 last-name: Doe

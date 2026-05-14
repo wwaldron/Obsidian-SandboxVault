@@ -8,7 +8,7 @@ parent:
   - "[[Student MoC]]"
 tags:
   - person
-  - student
+  - person/student
 first-name: <% name.split(" ")[0] %>
 middle-name:
 last-name: <% name.split(" ").slice(-1) %>
@@ -49,7 +49,7 @@ zoom-id:
 
 Current Student: `INPUT[toggle(defaultValue(true)):currentStudent]`
 
-Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post-Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
+Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
 
 Student's Advisor: `INPUT[text(defaultValue(Me)):advisor]`
 
