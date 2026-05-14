@@ -10,8 +10,8 @@ description:
 
 ## Semester
 ```dataviewjs
-var a = moment("2025-01-01");
-var b = moment("2025-12-31");
+var a = moment("2026-08-01");
+var b = moment("2026-12-31");
 
 var n = moment()
 var t = moment().startOf('day');

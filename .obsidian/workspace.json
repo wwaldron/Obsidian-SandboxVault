@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md",
+                "file": "5 - Templates/Course Note Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Student MoC"
+              "title": "Course Note Template"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Daily Notes Base",
+                "query": "```base",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "186566c36331c546",
@@ -120,9 +121,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "5 - Templates/Course Note Template.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Course Note Template"
             }
           },
           {
@@ -182,6 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "5 - Templates/Course Note Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Course Note Template"
             }
           },
           {
@@ -290,8 +294,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d990190dba5dbb2",
+  "active": "1977813093f03f14",
   "lastOpenFiles": [
+    "2 - Calendar/Daily Notes/2026/132 - Tuesday, May 12, 2026.md",
     "1 - Atlas/People/Student MoC.md",
     "1 - Atlas/People/People MoC.md",
     "1 - Atlas/People/People.base",
@@ -301,7 +306,6 @@
     "2 - Calendar/Daily Notes/Daily Notes.base",
     "2 - Calendar/Daily Notes/2026",
     "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
-    "2 - Calendar/Daily Notes/2026/132 - Tuesday, May 12, 2026.md",
     "5 - Templates/Daily Note Template.md",
     "0 - Incoming/Daily Notes Base.base",
     "2 - Calendar/Calendar.md",
