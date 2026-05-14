@@ -1,20 +1,14 @@
 ---
-<%*
-name = await tp.system.prompt("What is this person's name?", "", true, false)
--%>
-<% await tp.file.move("1 - Atlas/People/" + name) -%>
 parent:
   - "[[People MoC]]"
-  - "[[Student MoC]]"
 tags:
   - person
-  - student
-first-name: <% name.split(" ")[0] %>
+first-name: John
 middle-name:
-last-name: <% name.split(" ").slice(-1) %>
+last-name: Doe
 personMet: true
 aliases:
-birthday:
+birthday: 2026-05-01
 source:
 title:
 skills:
@@ -22,9 +16,6 @@ organization:
 undergraduate-school:
 masters-school:
 doctorate-school:
-currentStudent: true
-studentLevel: Undergraduate
-advisor: Me
 url:
 email:
 phone:
@@ -45,15 +36,15 @@ youtube-id:
 zoom-id:
 ---
 
-# <% name %>
+# John Doe
 
-Current Student: `INPUT[toggle(defaultValue(true)):currentStudent]`
+Person Met Toggle: `INPUT[toggle:personMet]`
 
-Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post-Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
-
-Student's Advisor: `INPUT[text(defaultValue(Me)):exampleProperty]`
+John Doe's Birthday: `INPUT[date:birthday]`
 
 ## Bio
+
+## Quotes
 
 ## References
 

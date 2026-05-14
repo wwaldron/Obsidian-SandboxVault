@@ -20,11 +20,12 @@ actions:
 
 # People MOC
 
-People Notes are about jotting down notable information about people and linking people back to [Meetings MoC](Meetings%20MoC), etc.
+People Notes are about jotting down notable information about people and linking people back to [[Meetings MoC]], etc.
 
 ## Templates
 
-- [Person Template](Person%20Template)
+- [[Person Template]]
+- [[Student Template]]
 
 ## People
 

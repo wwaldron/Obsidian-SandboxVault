@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Atlas/People/People MoC.md",
+                "file": "1 - Atlas/People/Student MoC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "People MoC"
+              "title": "Student MoC"
             }
           }
         ]
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 - Atlas/People/People MoC.md"
+                "file": "1 - Atlas/People/Student MoC.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for People MoC"
+              "title": "File properties for Student MoC"
             }
           },
           {
@@ -170,7 +170,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -183,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Atlas/People/People MoC.md",
+                "file": "1 - Atlas/People/Student MoC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +220,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of People MoC"
+              "title": "Graph of Student MoC"
             }
           },
           {
@@ -291,9 +292,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4779a85c1c634bfe",
+  "active": "2d990190dba5dbb2",
   "lastOpenFiles": [
     "5 - Templates/Student Template.md",
+    "1 - Atlas/People/Student MoC.md",
+    "1 - Atlas/People/John Doe.md",
     "1 - Atlas/People/People MoC.md",
     "5 - Templates/Person Template.md",
     "README.md",
@@ -320,8 +323,6 @@
     "5 - Templates/New Book Template.md",
     "5 - Templates/Meeting Note Template.md",
     "5 - Templates/Lecture Note Template.md",
-    "5 - Templates/Lecture Note Trigger.md",
-    "5 - Templates/Email Trigger.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",
     "1 - Atlas/Education",
