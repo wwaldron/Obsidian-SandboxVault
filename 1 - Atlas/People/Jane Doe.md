@@ -9,7 +9,7 @@ first-name: Jane
 middle-name:
 last-name: Doe
 personMet: true
-aliases:
+aliases: []
 birthday:
 source:
 title:
@@ -46,7 +46,7 @@ exampleProperty: "[[John Doe]]"
 
 Current Student: `INPUT[toggle(defaultValue(true)):currentStudent]`
 
-Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post-Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
+Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
 
 Student's Advisor: `INPUT[text(defaultValue(Me)):advisor]`
 

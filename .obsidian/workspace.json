@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Student Template.md",
+                "file": "1 - Atlas/People/Student MoC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Student Template"
+              "title": "Student MoC"
             }
           }
         ]
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5 - Templates/Student Template.md"
+                "file": "1 - Atlas/People/Student MoC.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Student Template"
+              "title": "File properties for Student MoC"
             }
           },
           {
@@ -170,7 +170,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -183,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5 - Templates/Student Template.md",
+                "file": "1 - Atlas/People/Student MoC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +220,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Student Template"
+              "title": "Graph of Student MoC"
             }
           },
           {
@@ -292,11 +293,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d990190dba5dbb2",
   "lastOpenFiles": [
-    "1 - Atlas/People/Student MoC.md",
-    "1 - Atlas/People/Jane Doe.md",
     "5 - Templates/Student Template.md",
+    "1 - Atlas/People/Jane Doe.md",
+    "1 - Atlas/People/Student MoC.md",
     "1 - Atlas/People/John Doe.md",
     "1 - Atlas/People/Stephen Hawking.md",
     "1 - Atlas/Reading/Books/Stephen Hawking - A Brief History of Time.md",

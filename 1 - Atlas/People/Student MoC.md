@@ -153,7 +153,26 @@ views:
     filters:
       and:
         - currentStudent == true
-        - studentLevel == "PhD"
+        - studentLevel == "Post Doc"
+    order:
+      - file.name
+      - advisor
+      - email
+      - studentLevel
+    sort:
+      - property: last-name
+        direction: ASC
+    columnSize:
+      file.name: 198
+      note.advisor: 169
+      note.email: 150
+      note.studentLevel: 101
+  - type: table
+    name: Graduated Students
+    filters:
+      and:
+        - currentStudent == false
+        - studentLevel == "Graduated"
     order:
       - file.name
       - advisor
