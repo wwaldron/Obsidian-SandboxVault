@@ -6,7 +6,7 @@ tags:
 topics:
 aliases:
 parent:
-  - "[[Daily Notes Base.base]]"
+  - "[[Daily Notes.base]]"
 ---
 
 ## Tasks Due Soon

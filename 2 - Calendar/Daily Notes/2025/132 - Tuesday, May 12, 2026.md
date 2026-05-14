@@ -6,7 +6,7 @@ tags:
 topics:
 aliases: []
 parent:
-  - "[[Daily Notes Base.base]]"
+  - "[[Daily Notes.base]]"
 ---
 
 # 132 - Tuesday, May 12, 2026

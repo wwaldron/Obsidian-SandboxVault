@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Atlas/People/Jane Doe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jane Doe"
-            }
-          },
-          {
-            "id": "0f9028c40e2b90bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Atlas/People/John Doe.md",
+                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John Doe"
+              "title": "132 - Tuesday, May 12, 2026"
             }
           },
           {
             "id": "3c05571a319b13df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1 - Atlas/People/Jane Doe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "2 - Calendar/Daily Notes/Daily Notes.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Jane Doe"
+              "icon": "lucide-table",
+              "title": "Daily Notes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Daily Notes Base",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,10 +134,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 - Atlas/People/Jane Doe.md"
+                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Jane Doe"
+              "title": "File properties for 132 - Tuesday, May 12, 2026"
             }
           },
           {
@@ -232,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Atlas/People/Jane Doe.md",
+                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Jane Doe"
+              "title": "Graph of 132 - Tuesday, May 12, 2026"
             }
           },
           {
@@ -341,10 +305,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c05571a319b13df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1 - Atlas/People/John Doe.md",
+    "2 - Calendar/Daily Notes/Daily Notes.base",
+    "5 - Templates/Daily Note Template.md",
+    "0 - Incoming/Daily Notes Base.base",
+    "2 - Calendar/Calendar.md",
+    "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
+    "2 - Calendar/Daily Notes/2025/318 - Friday, November 14, 2025.md",
     "1 - Atlas/People/Jane Doe.md",
+    "1 - Atlas/People/John Doe.md",
+    "2 - Calendar/Meetings/Meeting about Obsidian - 2025-11-14.md",
     "1 - Atlas/People/Student MoC.md",
     "5 - Templates/Student Template.md",
     "1 - Atlas/People/Stephen Hawking.md",
@@ -352,7 +323,6 @@
     "1 - Atlas/People/People MoC.md",
     "README.md",
     "5 - Templates/Person Template.md",
-    "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
     "2 - Calendar/Meeting with Rod about DND.md",
     "1 - Atlas/People/Rod Davidson.md",
     "0 - Incoming/Untitled.base",
@@ -367,16 +337,10 @@
     "0 - Incoming/PH 113 - General Physics 3.md",
     "0 - Incoming/Lectures/PH 113 - General Physics 3 - Lecture 01.md",
     "5 - Templates/Chapter Note Trigger.md",
-    "5 - Templates/Chapter Note Template.md",
-    "5 - Templates/runImport.md",
-    "5 - Templates/Podcast Series Template.md",
-    "5 - Templates/Podcast Episode Note Template.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",
     "1 - Atlas/Education",
     "1 - Atlas/Education/UAH/PH 111/Lectures",
-    "2 - Calendar/Daily Notes/2025",
-    "2 - Calendar/Meetings",
-    "2 - Calendar/Emails"
+    "2 - Calendar/Daily Notes/2025"
   ]
 }

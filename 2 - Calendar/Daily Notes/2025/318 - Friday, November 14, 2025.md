@@ -6,7 +6,7 @@ tags:
 topics:
 aliases: []
 parent:
-  - "[[Daily Notes Base.base]]"
+  - "[[Daily Notes.base]]"
 ---
 
 # 318 - Friday, November 14, 2025
