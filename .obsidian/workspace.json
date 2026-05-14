@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "33a5fda1345d69d5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3df481332cccb175",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Atlas/People/People MoC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "People MoC"
             }
           }
         ]
@@ -107,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md"
+                "file": "1 - Atlas/People/People MoC.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 132 - Tuesday, May 12, 2026"
+              "title": "File properties for People MoC"
             }
           },
           {
@@ -156,8 +170,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -170,8 +183,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1 - Atlas/People/People MoC.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -205,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of People MoC"
             }
           },
           {
@@ -277,14 +291,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3df481332cccb175",
+  "active": "4779a85c1c634bfe",
   "lastOpenFiles": [
+    "5 - Templates/Student Template.md",
+    "1 - Atlas/People/People MoC.md",
+    "5 - Templates/Person Template.md",
     "README.md",
     "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
     "2 - Calendar/Meeting with Rod about DND.md",
     "1 - Atlas/People/Rod Davidson.md",
     "0 - Incoming/Untitled.base",
-    "5 - Templates/Person Template.md",
     "1 - Atlas/People",
     "0 - Incoming/Lectures/PH 306 - Coputational Physics - Lecture 01.md",
     "0 - Incoming/PH 306 - Coputational Physics.md",
@@ -306,7 +322,6 @@
     "5 - Templates/Lecture Note Template.md",
     "5 - Templates/Lecture Note Trigger.md",
     "5 - Templates/Email Trigger.md",
-    "5 - Templates/Email Template.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",
     "1 - Atlas/Education",
