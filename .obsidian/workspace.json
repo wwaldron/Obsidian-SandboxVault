@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md",
+                "file": "1 - Atlas/People/Jane Doe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Student MoC"
+              "title": "Jane Doe"
+            }
+          },
+          {
+            "id": "0f9028c40e2b90bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Atlas/People/John Doe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John Doe"
+            }
+          },
+          {
+            "id": "3c05571a319b13df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Atlas/People/Jane Doe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jane Doe"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md"
+                "file": "1 - Atlas/People/Jane Doe.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Student MoC"
+              "title": "File properties for Jane Doe"
             }
           },
           {
@@ -170,8 +219,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -184,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Atlas/People/Student MoC.md",
+                "file": "1 - Atlas/People/Jane Doe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +268,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Student MoC"
+              "title": "Graph of Jane Doe"
             }
           },
           {
@@ -293,12 +341,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d990190dba5dbb2",
+  "active": "3c05571a319b13df",
   "lastOpenFiles": [
-    "5 - Templates/Student Template.md",
+    "1 - Atlas/People/John Doe.md",
     "1 - Atlas/People/Jane Doe.md",
     "1 - Atlas/People/Student MoC.md",
-    "1 - Atlas/People/John Doe.md",
+    "5 - Templates/Student Template.md",
     "1 - Atlas/People/Stephen Hawking.md",
     "1 - Atlas/Reading/Books/Stephen Hawking - A Brief History of Time.md",
     "1 - Atlas/People/People MoC.md",

@@ -15,7 +15,7 @@ source:
 title:
 skills:
 organization:
-undergraduate-school:
+undergraduate-school: UAH
 masters-school:
 doctorate-school:
 currentStudent: true
