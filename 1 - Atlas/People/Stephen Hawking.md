@@ -1,16 +1,14 @@
 ---
 parent:
   - "[[People MoC]]"
-  - "[[Student MoC]]"
 tags:
   - person
-  - student
-first-name: John
+first-name: Stephen
 middle-name:
-last-name: Doe
-personMet: true
-aliases:
-birthday:
+last-name: Hawking
+personMet: false
+aliases: []
+birthday: 1942-01-08
 source:
 title:
 skills:
@@ -18,9 +16,6 @@ organization:
 undergraduate-school:
 masters-school:
 doctorate-school:
-currentStudent: true
-studentLevel: Masters
-advisor: "[[Stephen Hawking]]"
 url:
 email:
 phone:
@@ -41,15 +36,19 @@ youtube-id:
 zoom-id:
 ---
 
-# John Doe
+# Stephen Hawking
 
-Current Student: `INPUT[toggle(defaultValue(true)):currentStudent]`
+Person Met Toggle: `INPUT[toggle:personMet]`
 
-Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post-Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
-
-Student's Advisor: `INPUT[text(defaultValue(Me)):advisor]`
+Stephen Hawking's Birthday: `INPUT[date:birthday]`
 
 ## Bio
+
+### [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
+
+**Stephen William Hawking** (8 January 1942 - 14 March 2018) was an English theoretical [astrophysicist](https://en.wikipedia.org/wiki/Astrophysics "Astrophysics"), [cosmologist](https://en.wikipedia.org/wiki/Cosmologist "Cosmologist"), and author who was director of research at the [Centre for Theoretical Cosmology](https://en.wikipedia.org/wiki/Centre_for_Theoretical_Cosmology "Centre for Theoretical Cosmology") at the [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge "University of Cambridge"). Between 1979 and 2009, he was the [Lucasian Professor of Mathematics](https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics "Lucasian Professor of Mathematics") at Cambridge, widely viewed as one of the most prestigious academic posts in the world.
+
+## Quotes
 
 ## References
 

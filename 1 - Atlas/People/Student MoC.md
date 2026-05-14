@@ -18,9 +18,7 @@ actions:
     openIfAlreadyExists: true
 ```
 
-# People MOC
-
-People Notes are about jotting down notable information about people and linking people back to [[Meetings MoC]], etc.
+# Student MoC
 
 ## Templates
 
@@ -29,4 +27,22 @@ People Notes are about jotting down notable information about people and linking
 ## People
 
 ```base
+filters:
+  or:
+    - file.tags.contains("student")
+    - file.hasLink(this.file)
+properties:
+  file.name:
+    displayName: Student's Name
+views:
+  - type: table
+    name: My Current Advisees
+    filters:
+      and:
+        - advisor == "Me"
+        - currentStudent == true
+    sort:
+      - property: file.name
+        direction: ASC
+
 ```

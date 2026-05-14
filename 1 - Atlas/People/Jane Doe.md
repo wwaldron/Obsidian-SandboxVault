@@ -5,7 +5,7 @@ parent:
 tags:
   - person
   - student
-first-name: John
+first-name: Jane
 middle-name:
 last-name: Doe
 personMet: true
@@ -19,8 +19,8 @@ undergraduate-school:
 masters-school:
 doctorate-school:
 currentStudent: true
-studentLevel: Masters
-advisor: "[[Stephen Hawking]]"
+studentLevel: PhD
+advisor: Me
 url:
 email:
 phone:
@@ -39,9 +39,10 @@ reddit-id:
 twitter-id:
 youtube-id:
 zoom-id:
+exampleProperty: "[[John Doe]]"
 ---
 
-# John Doe
+# Jane Doe
 
 Current Student: `INPUT[toggle(defaultValue(true)):currentStudent]`
 

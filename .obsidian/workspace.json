@@ -24,7 +24,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -170,8 +170,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2e0cc9cc57bcdff0",
@@ -292,14 +291,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d990190dba5dbb2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "5 - Templates/Student Template.md",
-    "1 - Atlas/People/Student MoC.md",
     "1 - Atlas/People/John Doe.md",
+    "1 - Atlas/People/Student MoC.md",
+    "1 - Atlas/People/Stephen Hawking.md",
+    "1 - Atlas/People/Jane Doe.md",
+    "1 - Atlas/Reading/Books/Stephen Hawking - A Brief History of Time.md",
     "1 - Atlas/People/People MoC.md",
-    "5 - Templates/Person Template.md",
     "README.md",
+    "5 - Templates/Student Template.md",
+    "5 - Templates/Person Template.md",
     "2 - Calendar/Daily Notes/2025/132 - Tuesday, May 12, 2026.md",
     "2 - Calendar/Meeting with Rod about DND.md",
     "1 - Atlas/People/Rod Davidson.md",
@@ -319,10 +321,6 @@
     "5 - Templates/runImport.md",
     "5 - Templates/Podcast Series Template.md",
     "5 - Templates/Podcast Episode Note Template.md",
-    "5 - Templates/Podcast Episode Note Trigger.md",
-    "5 - Templates/New Book Template.md",
-    "5 - Templates/Meeting Note Template.md",
-    "5 - Templates/Lecture Note Template.md",
     "1 - Atlas/Education/UAH/PH 111",
     "1 - Atlas/Education/UAH",
     "1 - Atlas/Education",

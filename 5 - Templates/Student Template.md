@@ -51,7 +51,7 @@ Current Student: `INPUT[toggle(defaultValue(true)):currentStudent]`
 
 Student Level: `INPUT[inlineSelect(option(Undergraduate), option(Masters), option(PhD), option(Post-Doc), option(Graduated), defaultValue(Undergraduate)):studentLevel]`
 
-Student's Advisor: `INPUT[text(defaultValue(Me)):exampleProperty]`
+Student's Advisor: `INPUT[text(defaultValue(Me)):advisor]`
 
 ## Bio
 

@@ -2,8 +2,9 @@
 title: A Brief History of Time
 aliases:
   - A Brief History of Time
-authors: Stephen Hawking
-SortName: Stephen Hawking
+authors:
+  - "[[Stephen Hawking]]"
+SortName: Hawking, Stephen
 series:
 seriesnumber:
 rating:
